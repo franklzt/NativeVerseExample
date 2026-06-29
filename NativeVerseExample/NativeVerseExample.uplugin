@@ -1,0 +1,118 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NativeVerseExample",
+	"Description": "",
+	"Category": "Verse",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"CanContainVerse": true,
+	"VerseScope": "PublicAPI",
+	"VerseVersion": 0,
+	"EnableVerseAssetReflection": true,
+	"EnableSceneGraph": true,
+	"Modules": [
+		{
+			"Name": "NativeVerseExample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseColors",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseExperimental",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseGameplayDebug",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePersonaMetadata",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePrint",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseRestricted",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulationMetadata",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseTags",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseModifier",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSpatialMath",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseModuleIndependenceA",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseModuleIndependenceB",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseVM",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealEngineExperimental",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		}
+	]
+}
